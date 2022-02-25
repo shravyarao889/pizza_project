@@ -15,3 +15,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.nav-link{
+  color:black !important;
+}
+
+.navbar-brand{
+  color:black !important;
+}
+h1{
+  font-size:20px !important;
+}
+.flex-container{
+  display: flex !important;
+}
+.btn{
+  background-color: red !important;
+  color:white !important;
+  
+}
+select{
+  box-shadow:none !important;
+  border-color: black !important;
+}
