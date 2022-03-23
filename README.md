@@ -54,6 +54,7 @@ As soon the app opens you will be able to select any pizza of size small, medium
 ## Home_Page
 ![Screenshot (421)](https://user-images.githubusercontent.com/96167495/159649966-94582a7f-a019-40c5-accf-5353232377f7.png)
 
+![Screenshot (457)](https://user-images.githubusercontent.com/96167495/159650687-849bfc58-b59e-4bad-9570-7e25b3379059.png)
 
 
 
